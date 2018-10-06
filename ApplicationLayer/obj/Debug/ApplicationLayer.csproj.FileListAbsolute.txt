@@ -1,0 +1,5 @@
+C:\Users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\ApplicationLayer\bin\Debug\ApplicationLayer.dll
+C:\Users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+C:\Users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\ApplicationLayer\obj\Debug\ApplicationLayer.dll
+C:\Users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\ApplicationLayer\obj\Debug\ApplicationLayer.pdb

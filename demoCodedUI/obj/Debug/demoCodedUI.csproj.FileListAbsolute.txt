@@ -1,0 +1,7 @@
+c:\users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\demoCodedUI\bin\Debug\demoCodedUI.dll
+c:\users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\demoCodedUI\bin\Debug\demoCodedUI.pdb
+c:\users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\demoCodedUI\obj\Debug\demoCodedUI.csprojResolveAssemblyReference.cache
+c:\users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\demoCodedUI\obj\Debug\demoCodedUI.dll
+c:\users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\demoCodedUI\obj\Debug\demoCodedUI.pdb
+C:\Users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\demoCodedUI\bin\Debug\ApplicationLayer.dll
+C:\Users\pmallika\documents\visual studio 2015\Projects\demoCodedUI\demoCodedUI\bin\Debug\ApplicationLayer.pdb
